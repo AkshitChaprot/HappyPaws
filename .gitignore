@@ -38,3 +38,7 @@ target/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# Maven target folder
+/target/
+**/target/
